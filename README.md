@@ -1,2 +1,2 @@
-# ys-mathlab
-Mathlab on Scala
+# ys-matlab
+Matlab on Scala
